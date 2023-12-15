@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Text-to-Voice/static/css/main.e26a9638.css",
+    "main.js": "/Text-to-Voice/static/js/main.3e274468.js",
+    "index.html": "/Text-to-Voice/index.html",
+    "static/media/play-circle-svgrepo-com.svg": "/Text-to-Voice/static/media/play-circle-svgrepo-com.ebe451eb08a086fbcd5e66af952bfb94.svg",
+    "main.e26a9638.css.map": "/Text-to-Voice/static/css/main.e26a9638.css.map",
+    "main.3e274468.js.map": "/Text-to-Voice/static/js/main.3e274468.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e26a9638.css",
+    "static/js/main.3e274468.js"
+  ]
+}
